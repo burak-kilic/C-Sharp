@@ -1,0 +1,13 @@
+C:\Users\hard_\source\repos\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.exe
+C:\Users\hard_\source\repos\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.deps.json
+C:\Users\hard_\source\repos\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.runtimeconfig.json
+C:\Users\hard_\source\repos\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.runtimeconfig.dev.json
+C:\Users\hard_\source\repos\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.dll
+C:\Users\hard_\source\repos\Passcode\Passcode\bin\Debug\netcoreapp3.1\Passcode.pdb
+C:\Users\hard_\source\repos\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.AssemblyInfoInputs.cache
+C:\Users\hard_\source\repos\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.AssemblyInfo.cs
+C:\Users\hard_\source\repos\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.csproj.CoreCompileInputs.cache
+C:\Users\hard_\source\repos\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.dll
+C:\Users\hard_\source\repos\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.pdb
+C:\Users\hard_\source\repos\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.genruntimeconfig.cache
+C:\Users\hard_\source\repos\Passcode\Passcode\obj\Debug\netcoreapp3.1\Passcode.csprojAssemblyReference.cache
