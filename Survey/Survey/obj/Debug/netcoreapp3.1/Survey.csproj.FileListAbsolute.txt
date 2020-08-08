@@ -1,0 +1,13 @@
+C:\Users\hard_\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.csprojAssemblyReference.cache
+C:\Users\hard_\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.AssemblyInfoInputs.cache
+C:\Users\hard_\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.AssemblyInfo.cs
+C:\Users\hard_\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.csproj.CoreCompileInputs.cache
+C:\Users\hard_\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.exe
+C:\Users\hard_\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.deps.json
+C:\Users\hard_\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.runtimeconfig.json
+C:\Users\hard_\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.runtimeconfig.dev.json
+C:\Users\hard_\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.dll
+C:\Users\hard_\source\repos\Survey\Survey\bin\Debug\netcoreapp3.1\Survey.pdb
+C:\Users\hard_\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.dll
+C:\Users\hard_\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.pdb
+C:\Users\hard_\source\repos\Survey\Survey\obj\Debug\netcoreapp3.1\Survey.genruntimeconfig.cache
